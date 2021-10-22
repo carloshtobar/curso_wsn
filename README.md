@@ -1,2 +1,2 @@
 # curso_wsn
-Recurso del curso Redes de Sensores
+Recursos del curso Redes de Sensores
